@@ -26,11 +26,7 @@ maldives-digital-transformation-research/
 │   └── sentiment_summary.md   # Sentiment distribution analysis
 ├── visualizations/
 │   ├── chart_data.csv         # Data for Excel chart generation
-│   └── visualization_guide.md # Step-by-step chart creation guide
-├── poster/
-│   └── poster_content_final.md # Complete poster text and layout
-├── presentation/
-│   └── presentation_script.md  # 20-minute presentation script
+│   └── visualization_guide.md # Chart explanations
 └── README.md
 ```
 
@@ -86,5 +82,6 @@ Additional columns:
 - No private or protected content was accessed
 - Usernames have been anonymised to protect privacy
 - Research conducted for academic purposes only
+
 
 *Last updated: December 2025*
